@@ -1,5 +1,7 @@
-=====1.12
+the first module is completed
 
+=====1.13
+work with git using intellij idea
 =====1.11
 new file .gitignore
 new file error.log
