@@ -2,6 +2,7 @@ the first module is completed
 
 =====1.13
 work with git using intellij idea
+the blue color is changes, the red is new files
 =====1.11
 new file .gitignore
 new file error.log
@@ -23,10 +24,10 @@ logs/*.log
 !!!IMPORTANT!!!
 not added to .gitignore logs, users, ide, OS files, external libs, configs
 =====1.10
-git status
+git status		//show directory information
 git add <file(s)>
 git commit -m 'comment'
-git show
+git show		//max information about
 
 deleting files 1.txt, 2.txt
 edit readme.txt, index.html
